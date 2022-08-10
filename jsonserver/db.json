@@ -1,0 +1,39 @@
+{
+  "favorite_movies": [
+    {
+      "id": "tt0372784",
+      "imdbID": "tt0372784",
+      "title": "Batman Begins",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "note": "Best Batman movie"
+    },
+    {
+      "id": "tt2380307",
+      "imdbID": "tt2380307",
+      "title": "Coco",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
+      "note": "Remember me~"
+    },
+    {
+      "id": "tt2245084",
+      "imdbID": "tt2245084",
+      "title": "Big Hero 6",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDliOTIzNmUtOTllOC00NDU3LWFiNjYtMGM0NDc1YTMxNjYxXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_SX300.jpg",
+      "note": "Baymax <3"
+    },
+    {
+      "imdbID": "tt2953050",
+      "title": "Encanto",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjE5NzA4ZDctOTJkZi00NzM0LTkwOTYtMDI4MmNkMzIxODhkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
+      "note": "WE DONT TALK ABOUT BRUNO",
+      "id": "tt2953050"
+    },
+    {
+      "id": "tt7395114",
+      "imdbID": "tt7395114",
+      "title": "The Devil All the Time",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZmE1NmVmN2EtMjZmZC00YzAyLWE4MWEtYjY5YmExMjUxODU1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "note": ""
+    }
+  ]
+}
